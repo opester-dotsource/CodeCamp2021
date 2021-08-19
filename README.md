@@ -23,5 +23,11 @@ NodeJS setup for CodeCamp 2021 Dotsource
 * nun sollte "Server started. http://localhost:8080" im Terminal erscheinen
 * den Link mit strg + Klick öffnen oder kopieren und im Browser eingeben
 
+# Nutzen
+
+Nach erfolgreicher kann man im public Ordner html,css,javascript anlegen.
+Server wird automatisch bei Änderung der datein aktualisiert.
+
+
 
 
