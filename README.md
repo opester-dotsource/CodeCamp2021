@@ -28,6 +28,14 @@ NodeJS setup for CodeCamp 2021 Dotsource
 Nach erfolgreicher kann man im public Ordner html,css,javascript anlegen.
 Server wird automatisch bei Änderung der datein aktualisiert.
 
+# Branches
+
+Habe verschiedene branches angelegt
+
+Bootstrap beinhaltet ein kleines Beispiel von deren Seite. (Bootstrap 5)
+
+Vuejs beinhaltet orientiert sich am bootstrap branch generiert jedoch den html code in einer schleife.
+
 
 
 
