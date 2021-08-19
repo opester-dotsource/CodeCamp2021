@@ -1,0 +1,26 @@
+{
+  "name": "codecamp",
+  "version": "1.0.0",
+  "description": "Setup codecamp2021 Dotsource",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "npx nodemon server.js -w ./ -e html,js,css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opester-dotsource/CodeCamp2021.git"
+  },
+  "author": "Oskar Pester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opester-dotsource/CodeCamp2021/issues"
+  },
+  "homepage": "https://github.com/opester-dotsource/CodeCamp2021#readme"
+}
