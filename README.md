@@ -18,7 +18,7 @@ NodeJS setup for CodeCamp 2021 Dotsource
         ```
     * abwarten bis es alles heruntergeladen hat
     *   ```bash
-        npm run dev
+        npm start
         ```
 * nun sollte "Server started. http://localhost:8080" im Terminal erscheinen
 * den Link mit strg + Klick öffnen oder kopieren und im Browser eingeben
