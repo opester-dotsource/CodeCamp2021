@@ -14,7 +14,7 @@ NodeJS setup for CodeCamp 2021 Dotsource
 * Terminal => Neues Terminal
 * folgendes im Terminal eingeben
     * ```bash
-        npm i
+        npm install
         ```
     * abwarten bis es alles heruntergeladen hat
     *   ```bash
